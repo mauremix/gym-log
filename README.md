@@ -4,13 +4,15 @@
 A training log application that records workout sessions, helping users to monitor performance and evaluate progress over time—with the simplicity of a phone note and the power of data-driven insights.
 
 ## Domain Structure 
-Block (usually 4 months period)
+```
+ Block (usually 4 months period)
     └── Cycle (usually a month. 3–4 per block)
            └── Week
                 └── Session Day
                         └── Component (upper, lower, core, rehab)
                                 └── Exercise
                                         └── Sets (weight, reps, RIR -reps in reserve-, comment, metadata)
+```
 
 ## Log Protocol
 > <exercise_name>: <weight><unit> x <reps(RIR)> / <reps(RIR)> / …  // <optional_comment>
