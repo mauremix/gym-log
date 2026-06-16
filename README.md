@@ -31,7 +31,7 @@ meaning:
 
 In addition, each log contains the following metadata of when the exercise was performed:
 * Block
-* Mesocycle
-* Microcycle
+* Cycle
+* Week
 * Session Day
 * day and hour
