@@ -1,6 +1,6 @@
 # Gym Log
 
-Gym Log records training sessions so progress can be reviewed over time. Its language follows periodized strength-training concepts where training is organized from larger planning periods down to individual sessions.
+"Gym Log" records training sessions so progress can be reviewed over time. Its language follows periodized strength-training concepts where training is organized from larger planning periods down to individual sessions.
 
 ## Language
 

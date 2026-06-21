@@ -6,9 +6,9 @@ A training log application that records workout sessions, helping users to monit
 ## Domain Structure 
 ```
  Block (usually 4 months period)
-    └── Cycle (usually a month. 3–4 per block)
-           └── Week
-                └── Session Day
+    └── Mesocycle (usually a month. 3–4 per block)
+           └── Microcycle
+                └── Session
                         └── Component (upper, lower, core, rehab)
                                 └── Exercise
                                         └── Sets (weight, reps, RIR -reps in reserve-, comment, metadata)
